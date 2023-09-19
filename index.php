@@ -21,7 +21,7 @@
 
     <section id="home">
         <h2>Discover Our Delicious Cuisine</h2>
-        <p>Indulge in a world of flavors and culinary delights.</p>
+        <p>Indulge in a world of flavours and culinary delights.</p>
         <a href="#menu" class="cta-button">Explore Our Menu</a>
     </section>
 
@@ -52,6 +52,14 @@
                     <li>Dessert 3</li>
                 </ul>
             </li>
+            <li>
+                <h3>Drinks</h3>
+                <ul>
+                    <li>Drink 1</li>
+                    <li>Drink 2</li>
+                    <li>Drink 3</li>
+                </ul>
+            </li>
         </ul>
     </section>
 
@@ -64,8 +72,8 @@
         <h2>Contact Us</h2>
         <p>If you have any questions or would like to make a reservation, please get in touch with us.</p>
         <address>
-            <p>Email: <a href="mailto:info@deliciousfood.com">info@deliciousfood.com</a></p>
-            <p>Phone: +1-123-456-7890</p>
+            <p>Email: <a href="mailto:sruthichennoju16@gmail.com">sruthichennoju16@gmail.com</a></p>
+            <p>Phone: +91 72079415390</p>
         </address>
     </section>
 
