@@ -26,7 +26,7 @@
     </section>
 
     <section id="menu">
-        <h2>Our Menu</h2>
+        <h2>Menu</h2>
         <ul>
             <li>
                 <h3>Appetizers</h3>
