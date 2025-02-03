@@ -20,7 +20,7 @@
     </header>
 
     <section id="home">
-        <h2>Discover Our Delicious Cuisine</h2>
+        <h2>Discover Our Delicious Cuisine :)</h2>
         <p>Indulge in a world of flavours and culinary delights.</p>
         <a href="#menu" class="cta-button">Explore Our Menu</a>
     </section>
