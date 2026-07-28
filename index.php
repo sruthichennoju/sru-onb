@@ -72,8 +72,8 @@
         <h2>Contact Us</h2>
         <p>If you have any questions or would like to make a reservation, please get in touch with us.</p>
         <address>
-            <p>Email: <a href="mailto:sruthichennoju16@gmail.com">sruthichennoju16@gmail.com</a></p>
-            <p>Phone: +91 72079415390</p>
+            <p>Email: <a href="mailto:sruthichennoju@gmail.com">sruthichennoju@gmail.com</a></p>
+            <p>Phone: +91 72079415300</p>
         </address>
     </section>
 
