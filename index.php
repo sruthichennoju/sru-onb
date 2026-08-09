@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to Our Food House</h1>
+        <h1>Welcome to Our FooD House</h1>
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
